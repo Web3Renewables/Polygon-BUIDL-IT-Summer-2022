@@ -1,0 +1,18 @@
+{
+"PVsystem":[  
+ {
+  "outputsource":"PV System DID#",
+  "productiondevicename":"PV System DID#",
+  "productiondeviceid":"PV System DID#",
+  "productiondevicetechnology":"PV System",
+  "pvsystemcapacity":"AC Inverter Rating (#.## kW)",
+  "producerid":"System Owner DID#",
+  "meterserialnumber":"Inverter Serial #('s), (Inverter DID#)",
+  "locationofproductiondevice":"GPS Coordinates",
+  "dateofcommissioning":"DD/MM/YYYY",
+  "productiondeviceaccreditation":"Web3 Renewables Approved Systems Index (StreamID)"
+  }
+  ]
+ }
+
+
